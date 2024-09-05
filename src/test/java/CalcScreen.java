@@ -6,14 +6,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class CalcScreen {
-    @FindBy(id="com.google.android.calculator:id/digit_1")
-    WebElement btn1;
-    @FindBy(id="com.google.android.calculator:id/digit_0")
-    WebElement btn0;
-    @FindBy(id="com.google.android.calculator:id/digit_5")
-    WebElement btn5;
-    @FindBy(id="com.google.android.calculator:id/digit_6")
-    WebElement btn6;
+//    @FindBy(id="com.google.android.calculator:id/digit_1")
+//    WebElement btn1;
+//    @FindBy(id="com.google.android.calculator:id/digit_0")
+//    WebElement btn0;
+//    @FindBy(id="com.google.android.calculator:id/digit_5")
+//    WebElement btn5;
+//    @FindBy(id="com.google.android.calculator:id/digit_6")
+//    WebElement btn6;
     @FindBy(id="com.google.android.calculator:id/op_mul")
     WebElement btnMultiply;
     @FindBy(id="com.google.android.calculator:id/op_div")

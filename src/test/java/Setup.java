@@ -28,7 +28,7 @@ public class Setup {
 
     }
 
-    //@AfterTest
+      @AfterTest
     public void closeApp(){
         driver.quit();
     }
