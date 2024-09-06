@@ -44,3 +44,5 @@ bin/
 .idea
 build
 logs
+allure-report
+allure-results
