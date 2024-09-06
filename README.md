@@ -8,7 +8,8 @@ The automation script navigates through the calculator app, performs the operati
 # Prerequisites
 To set up and run this project, ensure you have the following installed:
 
-* Java Development Kit (JDK): Version 8 or higher
+* Java Development Kit (JDK): Version 8 or higher.
+* Gradle: That matches with the JDK version.
 * Android Studio: For managing the Android virtual device (emulator) or connecting to a real Android device.
 * Appium: For mobile app automation. Ensure you have the Appium desktop app and Appium server running.
 * Selenium: Set up the Selenium WebDriver for automation.
@@ -16,10 +17,10 @@ To set up and run this project, ensure you have the following installed:
 * Appium Inspector: To identify elements in the Calculator App.
 
 # How to Run
-Step 1: Clone the Repository ```mmmm```
-Step 2: Set Up Appium
-Step 3: Launch Android Studio
-Step 4: Run the Automation Script [Open the project in your preferred IDE (e.g., Eclipse or IntelliJ)].
+* Step 1: Clone the Repository ```(https://github.com/AmenaIslamRimi/calculator-appium-app-automation.git)```
+* Step 2: Set Up Appium
+* Step 3: Launch Android Studio
+* Step 4: Run the Automation Script [Open the project in your preferred IDE (e.g., Eclipse or IntelliJ)].
 
 # Screenshots
 ## Automation Result
