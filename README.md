@@ -24,5 +24,10 @@ To set up and run this project, ensure you have the following installed:
 
 # Screenshots
 ## Automation Result
+![automation result](https://i.postimg.cc/7ZY8srx2/calculator-app-automation-report.png)
 ## Allure Report
+![allure summary report](https://i.postimg.cc/Mpr49cPC/calc-allure-overview.png)
+![allure behavior report](https://i.postimg.cc/q7PFdPdQ/calc-allure-behavior.png)
 ## Recorded Video
+https://github.com/user-attachments/assets/1e4ab31e-a83d-402d-968f-50764c436b1c 
+
